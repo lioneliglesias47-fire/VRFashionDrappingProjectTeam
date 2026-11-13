@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/Unreal Projects/VRFashionProject_UR/Content/VRDrapping/VR_Drapping_Map.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/VRFashionProject_UR/Content/Pawn/Manneqiun.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/VRFashionProject_UR/Content/XRFramework/Blueprints/BP_XRGameMode.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/VRFashionProject_UR/Content/Pawn/BP_XR_Pawn.uasset"
+			]
+		}
+	]
+}
